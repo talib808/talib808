@@ -29,13 +29,13 @@
 
 <p>
    <a href="https://twitter.com/MdTalib57200313">
-    <img align="left" src="https://raw.githubusercontent.com/talib789/talib789/5604a09025392c73fc35b8589807b82c3b585d17/Images/twitter.svg" width="32px"  />
+    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/twitter.svg" width="32px"  />
   </a>
   <a href="mailto:taalibullah789@gmail.com">
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/mail.png?raw=true" width="32px"  />
   </a>
   <a href="https://www.linkedin.com/in/md-talib-ansari-117483213/">
-    <img align="left" src="https://raw.githubusercontent.com/talib789/talib789/5604a09025392c73fc35b8589807b82c3b585d17/Images/linked-in-alt.svg" width="28px" />
+    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/linked-in-alt.svg" width="28px" />
   </a>
   <a href="https://leetcode.com/taalibullah786/">
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/leetcode.png?raw=true" width="24px"  />
