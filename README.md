@@ -128,7 +128,7 @@
 </span></a> </p>
 
  <br/>
- <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=talib789&theme=dark" alt="" width="350px"/> </p>
+ <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=talib789&theme=dark" alt="" width="700px"/> </p>
  <br/>
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=talib789&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
