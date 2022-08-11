@@ -54,7 +54,8 @@
 <br>
 
  <hr>
- <h4><img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;My working tools..</h4>
+ <h2><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h2>
+ <h4><img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp; Tech Stack..</h4>
 <p >
  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
@@ -69,12 +70,14 @@
  <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=f60c88&logo=MongoDB&logoColor=white" />&nbsp;&nbsp;
  <br/>
  <img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68&logo=MySQL&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=blue&logo=Git&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=0c154d&logo=GitHub&logoColor=white" />&nbsp;&nbsp;                      
+ <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />&nbsp;&nbsp; 
+ <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="chakra-ui" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />&nbsp;&nbsp;
 </p>
 <hr>
 
-<h4><img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;>Tools | Use..</h4>
+<h4><img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;Tools | Use..</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
