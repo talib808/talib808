@@ -2,7 +2,7 @@
 
 <h1 align="left" >Hey there <img src="https://github.com/talib789/talib789/blob/main/Images/Hi.gif?raw=true" width="30" />, I'm Md Talib </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=white&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=dcad11&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
   <br>
 
 <h4><samp><strong>You have finally discovered my Github profile. Please feel free  <br>  to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h4> 
