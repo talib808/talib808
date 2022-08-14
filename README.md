@@ -1,6 +1,6 @@
 <img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
 
-<h1 align="left" >Hey there <img src="https://github.com/talib789/talib789/blob/main/Images/Hi.gif?raw=true" width="30" />, I'm Md Talib </h1>
+<h1 align="left" >Hey there <img src="https://github.com/talib789/talib789/blob/main/Images/Hi.gif?raw=true" clour="green" width="30" />, I'm Talib </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=dcad11&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
   <br>
