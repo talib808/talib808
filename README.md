@@ -141,4 +141,4 @@
   
 ![](https://github.com/talib789/talib789/blob/main/Images/bottom_header.svg)
 <br/>
-![Snake animation](https://github.com/talib789/talib789/blob/main/Images/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/talib789/talib789/blob/main/Images/github-contribution-grid-snake.svg  align='right' height=180px width="300px )
