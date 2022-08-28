@@ -11,7 +11,7 @@
 <img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;***About me ....***
 
 - 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-- 👨‍💻 My Portfolio - *[Md Talib](talib-portfolio.netlify.app)** <br>
+- 👨‍💻 My Portfolio - **[Md Talib](https://talib-portfolio.netlify.app)** <br>
 - 🤔 I use daily ```.js```,``` .css```, ```.html```
 - 🛠 I’m currently learning about **deep learning**🥰<br>
 - 🔥 I use to write coad on **[leetcode](https://leetcode.com/taalibullah786/)** <br>
