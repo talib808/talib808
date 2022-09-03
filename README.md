@@ -68,6 +68,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion" />
 </p>
  <hr>
+ 
 <img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;***Connect with me ....*** 
 <img src="https://github.com/talib789/talib789/blob/main/Images/handshake.gif?raw=true" width="70" />
 <p>
@@ -87,7 +88,10 @@
 </p>
 
 <img src ="https://github.com/talib789/talib789/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
+
 <br>
+<br>
+
  <hr>
  
 <h4 align="center"><img src="https://github.com/talib789/talib789/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
