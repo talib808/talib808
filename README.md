@@ -105,7 +105,7 @@
 </p>
 
 <p align="left" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=talib789&theme=chartreuse-dark" width="600" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=talib789&theme=chartreuse-dark" width="500" />
 </p>
  
 <p>
