@@ -98,14 +98,14 @@
 
 <hr>
 
- <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+ <img align="right" width=220px height=220px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <p align="left">
 <img src="https://github.com/talib789/talib789/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
 </p>
 
 <p align="left" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=talib789&theme=chartreuse-dark"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=talib789&theme=chartreuse-dark" width="50" />
 </p>
  
 <p>
