@@ -25,34 +25,9 @@
 
  <hr>
 
-<img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;***Connect with me ....*** 
-<img src="https://github.com/talib789/talib789/blob/main/Images/handshake.gif?raw=true" width="70" />
-
-<p>
-     <a href="https://wa.me/918084703458" target="blank"><img align="left" src="https://github.com/talib789/talib789/blob/main/Images/WhatsApp.svg_.png" width="32px" alt="whatsapp-me" /></a>
-   <a href="https://twitter.com/MdTalib57200313">
-    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/twitter.svg" width="32px" />
-  </a>
-  <a href="mailto:taalibullah789@gmail.com">
-    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/mail.png?raw=true" width="32px"  />
-  </a>
-  <a href="https://www.linkedin.com/in/md-talib-ansari-117483213/">
-    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/linked-in-alt.svg" width="28px" />
-  </a>
-  <a href="https://leetcode.com/taalibullah786/">
-    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/leetcode.png?raw=true" width="24px"  />
-  </a>
-</p>
-
-<img src ="https://github.com/talib789/talib789/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
-
-<br>
-<br>
-
- <hr>
  <h4><img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp; Tech Stack..</h4>
 <p >
- <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="25px" border-radius="8px" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Java%20-%23329993.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -92,6 +67,31 @@
   <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" alt="miro" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion" />
 </p>
+ <hr>
+<img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;***Connect with me ....*** 
+<img src="https://github.com/talib789/talib789/blob/main/Images/handshake.gif?raw=true" width="70" />
+<p>
+     <a href="https://wa.me/918084703458" target="blank"><img align="left" src="https://github.com/talib789/talib789/blob/main/Images/WhatsApp.svg_.png" width="32px" alt="whatsapp-me" /></a>
+   <a href="https://twitter.com/MdTalib57200313">
+    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/twitter.svg" width="32px" />
+  </a>
+  <a href="mailto:taalibullah789@gmail.com">
+    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/mail.png?raw=true" width="32px"  />
+  </a>
+  <a href="https://www.linkedin.com/in/md-talib-ansari-117483213/">
+    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/linked-in-alt.svg" width="28px" />
+  </a>
+  <a href="https://leetcode.com/taalibullah786/">
+    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/leetcode.png?raw=true" width="24px"  />
+  </a>
+</p>
+
+<img src ="https://github.com/talib789/talib789/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
+
+<br>
+<br>
+
+ <hr>
 
 <h4 align="center"><img src="https://github.com/talib789/talib789/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
 
