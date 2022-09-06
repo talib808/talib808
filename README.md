@@ -43,7 +43,7 @@
   </a>
 </p>
 
-<img src ="https://github.com/talib789/talib789/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" color:"#4cd964"/>
+<img src ="https://github.com/talib789/talib789/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" color="4cd964"/>
 
 <br>
 <br>
