@@ -41,6 +41,9 @@
   <a href="https://leetcode.com/taalibullah786/">
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/leetcode.png?raw=true" width="24px"  />
   </a>
+   <a href="https://hashnode.com/@Talib">
+    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/icon.png?raw=true" width="24px"  />
+  </a>
 </p>
 
 <img src ="https://github.com/talib789/talib789/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
