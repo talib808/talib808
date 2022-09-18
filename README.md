@@ -42,7 +42,7 @@
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/leetcode.png?raw=true" width="24px"  />
   </a>
    <a href="https://hashnode.com/@Talib">
-    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/icon.png?raw=true" width="28px"  />
+    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/icon.png?raw=true" width="30px"  />
   </a>
 </p>
 
