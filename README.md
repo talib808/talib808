@@ -68,7 +68,7 @@
     <a href="https://twitter.com/MdTalib57200313" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter"  alt="portfolio" /></a>
 <a href="https://leetcode.com/taalibullah786/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="50" width="50" /></a>
    <a href="https://hashnode.com/@Talib">
-    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/icon.png?raw=true" width="30px"  />
+    <img align="center" src="https://github.com/talib789/talib789/blob/main/Images/icon.png?raw=true" width="50px"  />
   </a>
 </p>
 
