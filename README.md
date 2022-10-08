@@ -13,8 +13,7 @@
 - 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 - 👨‍💻 My Portfolio - **[Md Talib](https://mdtalib.netlify.app/)** <br>
 - 🤔 I use daily ```.js```,``` .css```, ```.html```
-- 🛠 I’m currently learning about **deep learning**🥰<br>
-- 🔥 I use to write coad on **[leetcode](https://leetcode.com/taalibullah786/)** <br>
+- 🛠  I’m currently learning `MERN Stack`
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 - ⚡ I’m looking for help with anything **I am currently learning! 😅**.
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
@@ -25,7 +24,7 @@
 
  <hr>
  
-<img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;***Connect with me ....*** 
+<!-- <img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;***Connect with me ....*** 
 <img src="https://github.com/talib789/talib789/blob/main/Images/handshake.gif?raw=true" width="70" />
 <p>
      <a href="https://wa.me/918084703458" target="blank"><img align="left" src="https://github.com/talib789/talib789/blob/main/Images/WhatsApp.svg_.png" width="32px" alt="whatsapp-me" /></a>
@@ -45,28 +44,27 @@
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/icon.png?raw=true" width="30px"  />
   </a>
 </p>
-
-<img src ="https://github.com/talib789/talib789/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
+ -->
+<!-- <img src ="https://github.com/talib789/talib789/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" /> -->
 
 <br>
 <br>
-<h2 align="center"><i>Tech Stack <img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" /</i></h2>
+<h2 align="center"><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h2>
 <p align="center ">
   <a >
     <img src="https://skillicons.dev/icons?i=html,css,js,react,java,redux,bootstrap,express,jquery,materialui,mongodb,nodejs," />
   </a>
 </p>
 <!-- <img src="" alt="" /> -->
-<h2> <img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" align="center"/><i>Tools | Use</i></h2>
+<h2> <img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" align="center"><i>Tools | Use</i></h2>
 <p align="center ">
   <a >
     <img src="https://skillicons.dev/icons?i=bash,codepen,firebase,git,github,heroku,netlify,powershell,vscode,visualstudio," />
   </a>
 </p>
-<h2>
-<img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;***Connect with me ....*** 
-<img src="https://github.com/talib789/talib789/blob/main/Images/handshake.gif?raw=true" width="70" </h2>
-
+  
+<h2 align="center"><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h2>
+  
 <p align="center">
   <a href="https://www.linkedin.com/in/md-talib-ansari-117483213/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
   <a title="taalibullah789@gmail.com" href="mailto:taalibullah789@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
