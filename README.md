@@ -56,7 +56,7 @@
   </a>
 </p>
 <!-- <img src="" alt="" /> -->
-<h2> <img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" align="center"><i>Tools | Use</i></h2>
+<h2 align="center"> <img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" align="center"><i>Tools | Use</i></h2>
 <p align="center ">
   <a >
     <img src="https://skillicons.dev/icons?i=bash,codepen,firebase,git,github,heroku,netlify,powershell,vscode,visualstudio," />
