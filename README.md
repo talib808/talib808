@@ -20,7 +20,6 @@
 - ✍️ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br>
 
  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-
  <img src ="https://github.com/talib789/talib789/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" /> 
  
 <!-- <h2 align="center"><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h2>
@@ -112,7 +111,7 @@
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/icon.png?raw=true" width="35px"  />
   </a>
 </p>
-<hr>
+
 <br>
 
 <hr>
