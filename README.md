@@ -116,28 +116,22 @@
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/icon.png?raw=true" width="30px"  />
   </a>
 </p>
-
+<hr>
 <h4 align="center"><img src="https://github.com/talib789/talib789/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
-
 <p align="center"><img src="https://profile-counter.glitch.me/{talib789}/count.svg" alt="talib789 :: Visitor's Count" /></p>
 <hr>
-
  <img align="right" width=220px height=220px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
 <p align="left">
 <img src="https://github.com/talib789/talib789/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
 </p>
-
 <p align="left" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=talib789&theme=chartreuse-dark" width="500" />
 </p>
- 
 <p>
 <a href="https://github.com/talib789"><span>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talib789&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=talib789&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
 </span></a> </p>
-
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr clear="both">
  <br/>
@@ -145,20 +139,13 @@
 <a href="https://github.com/talib789"><span>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talib789&theme=dracula" />
 </span></a> </p>
-
  <br/>
  <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=talib789&theme=chartreuse-dark" width="700px" /> </p>
  <br/>
- 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=talib789&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
-
 <hr clear="both">
-
 <img src = 'https://github.com/talib789/talib789/blob/main/Images/matrix.gif' alt = 'Awesome Matrix Code' align='right' height=180px width="300px"/>
-
 ### 😜Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>**I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!**</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
-  
 ![](https://github.com/talib789/talib789/blob/main/Images/bottom_header.svg)
