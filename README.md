@@ -95,12 +95,12 @@
  <img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;Connect with me ...
 <img src="https://github.com/talib789/talib789/blob/main/Images/handshake.gif?raw=true" width="70" />
 <p>
-     <a href="https://wa.me/918084703458" target="blank"><img align="left" src="https://github.com/talib789/talib789/blob/main/Images/WhatsApp.svg_.png" width="32px" alt="whatsapp-me" /></a>
+     <a href="https://wa.me/918084703458" target="blank"><img align="left" src="https://github.com/talib789/talib789/blob/main/Images/WhatsApp.svg_.png" width="36px" alt="whatsapp-me" /></a>
    <a href="https://twitter.com/MdTalib57200313">
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/twitter.svg" width="40px" />
   </a>
   <a href="mailto:taalibullah789@gmail.com">
-    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/mail.png?raw=true" width="34px"  />
+    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/mail.png?raw=true" width="38px"  />
   </a>
   <a href="https://www.linkedin.com/in/md-talib-ansari-117483213/">
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/linked-in-alt.svg" width="40px" />
@@ -112,7 +112,7 @@
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/icon.png?raw=true" width="35px"  />
   </a>
 </p>
-
+<hr>
 
 <h4 align="center"><img src="https://github.com/talib789/talib789/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{talib789}/count.svg" alt="talib789 :: Visitor's Count" /></p>
