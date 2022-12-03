@@ -95,7 +95,7 @@
  <img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;Connect with me ...
 <img src="https://github.com/talib789/talib789/blob/main/Images/handshake.gif?raw=true" width="70" />
 <p>
-     <a href="https://wa.me/918084703458" target="blank"><img align="left" src="https://github.com/talib789/talib789/blob/main/Images/WhatsApp.svg_.png" width="36px" alt="whatsapp-me" /></a>
+  <a href="https://wa.me/918084703458" target="blank"><img align="left" src="https://github.com/talib789/talib789/blob/main/Images/WhatsApp.svg_.png" width="36px" alt="whatsapp-me" /></a>
    <a href="https://twitter.com/MdTalib57200313">
     <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/twitter.svg" width="40px" />
   </a>
