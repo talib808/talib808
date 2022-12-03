@@ -64,6 +64,7 @@
   <hr>
  <img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;Connect with me ...
  <img src="https://github.com/talib789/talib789/blob/main/Images/handshake.gif?raw=true" width="70"/>
+ 
 <p>
   <a href="https://wa.me/918084703458">
    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/whatspp.jpeg" width="36px"/>
@@ -114,7 +115,7 @@
  <br/>
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=talib789&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
-<hr clear="both">
+<hr>
 
 <img src = 'https://github.com/talib789/talib789/blob/main/Images/matrix.gif' alt = 'Awesome Matrix Code' align='right' height=180px width="300px"/>
 ### 😜Here's a Joke for you:
