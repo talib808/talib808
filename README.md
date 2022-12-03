@@ -69,10 +69,7 @@
   <a title="taalibullah789@gmail.com" href="mailto:taalibullah789@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
   <a href="https://wa.me/918084703458" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-me" /></a>
    <a href="https://hashnode.com/@Talib">
-    <img align="center" src="https://www.bing.com/th?id=OIP.4sfe-UEhKSnVolP0gr9lxQAAAA&w=212&h=212&c=8&rs=1&qlt=90&o=6&dpr=1.4&pid=3.1&rm=2" height="30" width= "70"/>
-  </a>
-   <a href="https://leetcode.com/taalibullah786/">
-    <img align="center" src="" width="35px"  />
+    <img align="center" src="https://www.bing.com/th?id=OIP.4sfe-UEhKSnVolP0gr9lxQAAAA&w=212&h=212&c=8&rs=1&qlt=90&o=6&dpr=1.4&pid=3.1&rm=2" height="28" width= "80"/>
   </a>
 </p>
 <!--  <img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;Connect with me ...
