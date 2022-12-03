@@ -125,7 +125,7 @@
  <br/>
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=talib789&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
-<hr>
+<hr clear="both">
 
 <img src = 'https://github.com/talib789/talib789/blob/main/Images/matrix.gif' alt = 'Awesome Matrix Code' align='right' height=180px width="300px"/>
 ### 😜Here's a Joke for you:
