@@ -21,36 +21,6 @@
 
  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
  <img src ="https://github.com/talib789/talib789/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" /> 
- 
-<!-- <h2 align="center"><i>Tech Stack  <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h2>
-<p align="center ">
-  <a >
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,redux,bootstrap,materialui,express,jquery,mongodb,nodejs," />
-  </a>
-</p>
- <img src="" alt="" /> 
-
- <h2 align="center"> <img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" align="center"><i>Tools | Use</i></h2>
-<p align="center ">
-  <a >
-    <img src="https://skillicons.dev/icons?i=bash,codepen,firebase,git,github,heroku,netlify,powershell,vscode,visualstudio," />
-  </a>
-</p>
-  
-<h2 align="center"><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h2>
-  
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-talib-ansari-117483213/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
-  <a title="taalibullah789@gmail.com" href="mailto:taalibullah789@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
-  <a href="https://wa.me/918084703458" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
-  <a href="https://mdtalib.netlify.app/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/2x/domain.png"  width="60px" alt="portfolio" /></a>
-    <a href="https://twitter.com/MdTalib57200313" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter"  alt="portfolio" /></a>
-<a href="https://leetcode.com/taalibullah786/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="50" width="50" /></a>
-   <a href="https://hashnode.com/@Talib">
-    <img align="center" src="https://github.com/talib789/talib789/blob/main/Images/icon.png?raw=true" width="50px"  />
-  </a>
-</p> -->
-
  <hr>
  <h4><img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp; Tech Stack..</h4>
 <p >
