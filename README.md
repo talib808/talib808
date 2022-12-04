@@ -1,4 +1,4 @@
-<img src="http://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
 
 <h1 align="left" >Hey there<img src="https://github.com/talib789/talib789/blob/main/Images/Hi.gif?raw=true" width="30" />, I'm Md Talib Ansari </h1>
 
