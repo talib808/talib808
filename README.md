@@ -1,6 +1,6 @@
-<img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
 
-<h1 align="left" >Hey there <img src="https://github.com/talib789/talib789/blob/main/Images/Hi.gif?raw=true"  width="30" />, I'm Md Talib Ansari </h1>
+<h1 align="left" >Hey there<img src="https://github.com/talib789/talib789/blob/main/Images/Hi.gif?raw=true" width="30" />, I'm Md Talib Ansari </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=4cd964&size=24&width=500&lines=Full-Stack+Web+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
   <br>
@@ -124,7 +124,7 @@
  <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=talib789&theme=chartreuse-dark" width="700px" /> </p>
  <br/>
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=talib789&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=talib789&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)]
 <hr clear="both">
 
 <img src = 'https://github.com/talib789/talib789/blob/main/Images/matrix.gif' alt = 'Awesome Matrix Code' align='right' height=180px width="300px"/>
