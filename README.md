@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
 
-<h1 align="left">Hey there <img src="https://gifimage.net/wp-content/uploads/2018/06/waving-hand-gif-11.gif" width ="30"/>, I'm Md Talib Ansari </h1>
+<h1 align="left">Hey there <img src="https://media1.tenor.com/images/3abca4654c434fa76870c06909682c3e/tenor.gif?itemid=17554626" width ="30"/>, I'm Md Talib Ansari </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=4cd964&size=24&width=500&lines=Full-Stack+Web+Developer;MERN+Stack;Nice+to+meet+you...)](https://git.io/typing-svg)
   <br>
