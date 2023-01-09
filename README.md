@@ -72,6 +72,7 @@
     <img align="center" src="https://www.bing.com/th?id=OIP.4sfe-UEhKSnVolP0gr9lxQAAAA&w=212&h=212&c=8&rs=1&qlt=90&o=6&dpr=1.4&pid=3.1&rm=2" height="28" width= "80"/>
   </a>
 </p>
+
 <!--  <img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;Connect with me ...
  <img src="https://github.com/talib789/talib789/blob/main/Images/handshake.gif?raw=true" width="70"/>
  
