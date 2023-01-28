@@ -99,7 +99,7 @@
 
 <br>&nbsp;&nbsp;
 <hr>
-<h4 align="center"><img src="https://github.com/talib789/talib789/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
+<h4 align="center"><img src="https://github.com/talib789/talib789/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/>&nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{talib789}/count.svg" alt="talib789 :: Visitor's Count" /></p>
 <hr>
  <img align="right" width=220px height=220px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
