@@ -99,12 +99,12 @@
 
 <br>&nbsp;&nbsp;
 <hr>
-<h4 align="center"><img src="https://github.com/talib789/talib789/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/>&nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Visitor's count :eyes:</h4>
+<h4 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{talib789}/count.svg" alt="talib789 :: Visitor's Count" /></p>
 <hr>
  <img align="right" width=220px height=220px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <p align="left">
-<img src="https://github.com/talib789/talib789/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
+<img src="https://github.com/talib789/talib789/blob/main/Images/upline.gif?raw=true" width="30" alt="Git"/><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<i><b>🐱My Github stats:</b></i> 
 </p>
 <p align="left" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=talib789&theme=chartreuse-dark" width="500" />
