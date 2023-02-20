@@ -41,6 +41,7 @@
  <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="chakra-ui" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/PostgreSQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68&logo=PostgreSQL&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/ Prisma ORM%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68&logo=Prisma ORM&logoColor=white" />&nbsp;&nbsp;
 </p>
 <hr>
 <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tools | Use..</h4>
