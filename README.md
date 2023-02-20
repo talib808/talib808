@@ -19,11 +19,11 @@
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
 - ✍️ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br>
 
- <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+ <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b>  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
  <img src ="https://github.com/talib789/talib789/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" /> 
  <hr>
  <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Tech Stack..</h4>
-<p >
+<p>
  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
@@ -44,6 +44,7 @@
  <img src="https://img.shields.io/badge/PostgreSQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68&logo=PostgreSQL&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Prisma%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68&logo=Prisma&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Nexus.js-010101?&style=for-the-badge&logo=Nexus.js&logoColor=white"/>&nbsp;&nbsp;
 </p>
 <hr>
 <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tools | Use..</h4>
