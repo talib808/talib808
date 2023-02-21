@@ -130,7 +130,7 @@
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talib789&theme=dracula" />
 </span></a> </p>
  <br/>
- <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=talib789&theme=chartreuse-dark" width="700px" /> </p>
+ <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=talib789&theme=chartreuse-dark" width="500px" /> </p>
  <br/>
  
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=talib789&theme=chartreuse-dark)
