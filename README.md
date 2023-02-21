@@ -46,6 +46,8 @@
  <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Nexus.js-010101?&style=for-the-badge&logo=nexusdotjs&logoColor=white"/>&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>&nbsp;&nbsp;
 </p>
 <hr>
 <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tools | Use..</h4>
@@ -131,7 +133,7 @@
  <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=talib789&theme=chartreuse-dark" width="700px" /> </p>
  <br/>
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=talib789&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username={talib789})
 <hr clear="both">
 
 <img src = 'https://github.com/talib789/talib789/blob/main/Images/matrix.gif' alt = 'Awesome Matrix Code' align='right' height=180px width="300px"/>
