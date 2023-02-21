@@ -30,7 +30,7 @@
  <img src="https://img.shields.io/badge/Java%20-%23329993.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/react%20-%23F7DF1E.svg?&style=for-the-badge&logo=react&logoColor=white&color=dcad11" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Redux-Toolkit-%23593d88.svg?style=for-the-badge&logo=redux-toolkit&logoColor=white" alt="redux"/>&nbsp;&nbsp;
+  <img src="https://sujantmg.com.np/static/images/blogs/9/image1.jpg" width="30px" alt="redux"/>&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Figma%20-%23F7DF1E.svg?&style=for-the-badge&color=41011c&logo=Figma&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3&logo=Bootstrap&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Tailwind_CSS%20-%23F7DF1E.svg?&style=for-the-badge&color=38B2AC&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
