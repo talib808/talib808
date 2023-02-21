@@ -133,7 +133,7 @@
  <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=talib789&theme=chartreuse-dark" width="700px" /> </p>
  <br/>
  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username={talib789})
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=talib789&theme=chartreuse-dark)
 <hr clear="both">
 
 <img src = 'https://github.com/talib789/talib789/blob/main/Images/matrix.gif' alt = 'Awesome Matrix Code' align='right' height=180px width="300px"/>
