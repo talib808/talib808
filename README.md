@@ -45,6 +45,7 @@
  <img src="https://img.shields.io/badge/Prisma%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68&logo=Prisma&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Nexus.js-010101?&style=for-the-badge&logo=nexusdotjs&logoColor=white"/>&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;&nbsp;
 </p>
 <hr>
 <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tools | Use..</h4>
