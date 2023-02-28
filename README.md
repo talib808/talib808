@@ -45,7 +45,6 @@
  <img src="https://img.shields.io/badge/PostgreSQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68&logo=PostgreSQL&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Prisma%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68&logo=Prisma&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Nexus.js-010101?&style=for-the-badge&logo=nexusdotjs&logoColor=white"/>&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>&nbsp;&nbsp;
