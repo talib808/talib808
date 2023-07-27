@@ -83,7 +83,7 @@
   </a>
 </p>
 
-<!--  <img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;Connect with me ...
+ <!--  <img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;Connect with me ...
  <img src="https://github.com/talib789/talib789/blob/main/Images/handshake.gif?raw=true" width="70"/>
  
 <p>
