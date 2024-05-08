@@ -21,7 +21,7 @@
 - ✍️ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br>
 
  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b>  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
- <img src ="https://github.com/talib789/talib789/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" /> 
+ <img src ="https://github.com/talib808/talib808/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" /> 
  <hr>
  <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Tech Stack..</h4>
 <p>
@@ -120,7 +120,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=talib808&theme=chartreuse-dark" width="500" />
 </p>
 <p>
-<a href="https://github.com/talib789"><span>
+<a href="https://github.com/talib808"><span>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talib808&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=talib808&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
 </span></a> </p>
