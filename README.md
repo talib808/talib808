@@ -129,7 +129,7 @@
  <br/>
 <p align="center">
 <a href="https://github.com/talib808"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talib789&theme=dracula" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talib808&theme=dracula" />
 </span></a> </p>
  <br/>
  <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=talib808&theme=chartreuse-dark" width="680px" /> </p>
