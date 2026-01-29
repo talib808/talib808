@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
 
 <h1 align="left">Hey there <img src="https://media2.giphy.com/media/2UA9gXDkCbKIKlLKxd/200.webp?cid=ecf05e47x7mu9bvq76v5ufyn96y6lqwl4ec4n4gmnnwztxcm&rid=200.webp&ct=g" width ="40"/>, I'm Md Talib Ansari </h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=comfortaa&color=4cd964&size=24&width=500&lines=Full-Stack-Engineer`;)](https://git.io/typing-svg)](https://git.io/typing-svg)
+https://readme-typing-svg.herokuapp.com/?font=comfortaa&color=4cd964&size=24&width=500&lines=Full-Stack-Engineer`;)](https://git.io/typing-svg
   <br>
 <h4><samp><strong>You have finally discovered my Github profile. Please feel free  <br>  to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h4> 
 <h3><i>Happy Coding!</i> 😊</h3>
